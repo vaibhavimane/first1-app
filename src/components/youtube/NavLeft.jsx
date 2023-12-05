@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../styles/youtube/NavLeft.css'
+import '../../styles/NavLeft.css'
 
 function NavLeft() {
     return (
